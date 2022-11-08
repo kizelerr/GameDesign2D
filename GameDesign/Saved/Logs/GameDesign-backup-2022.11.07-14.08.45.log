@@ -1,0 +1,1298 @@
+﻿Log file open, 11/07/22 08:34:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GameDesign
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.278455
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/5926008891/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.07-13.34.21:094][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.07-13.34.21:094][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.07-13.34.21:095][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.07-13.34.21:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:096][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:118][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.07-13.34.21:118][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.07-13.34.21:119][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.07-13.34.21:120][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.07-13.34.21:121][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.07-13.34.21:122][  0]LogHAL: Display: Platform has ~ 16 GB [16994697216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.07-13.34.21:122][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.07-13.34.21:122][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.07-13.34.21:122][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.07-13.34.21:123][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.07-13.34.21:124][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Scalability.ini]
+[2022.11.07-13.34.21:124][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.07-13.34.21:124][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.07-13.34.21:124][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.07-13.34.21:124][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.07-13.34.21:129][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.07-13.34.21:129][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.07-13.34.21:129][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.07-13.34.21:129][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Engine.ini]
+[2022.11.07-13.34.21:129][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Config/Windows/Editor.ini]
+[2022.11.07-13.34.21:129][  0]LogInit: Computer: CAIT-C8473Y2
+[2022.11.07-13.34.21:130][  0]LogInit: User: 5926008891
+[2022.11.07-13.34.21:130][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.07-13.34.21:130][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.07-13.34.21:130][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.07-13.34.21:130][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.07-13.34.21:130][  0]LogMemory: Process Physical Memory: 139.87 MB used, 139.87 MB peak
+[2022.11.07-13.34.21:130][  0]LogMemory: Process Virtual Memory: 118.39 MB used, 118.39 MB peak
+[2022.11.07-13.34.21:130][  0]LogMemory: Physical Memory: 7596.20 MB used,  8611.21 MB free, 16207.41 MB total
+[2022.11.07-13.34.21:130][  0]LogMemory: Virtual Memory: 134208776.00 MB used,  8948.76 MB free, 134217728.00 MB total
+[2022.11.07-13.34.21:137][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.07-13.34.21:295][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.07-13.34.21:298][  0]LogInit: Using OS detected language (en-US).
+[2022.11.07-13.34.21:298][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.07-13.34.21:306][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.11.07-13.34.21:714][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.07-13.34.21:747][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.07-13.34.21:808][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.07-13.34.21:808][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.07-13.34.24:696][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.07-13.34.24:696][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.07-13.34.24:696][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.07-13.34.24:696][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.07-13.34.24:774][  0]LogD3D11RHI:    0. 'AMD Radeon RX 550' (Feature Level 11_0)
+[2022.11.07-13.34.24:774][  0]LogD3D11RHI:       4076/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.11.07-13.34.24:805][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.11.07-13.34.24:805][  0]LogD3D11RHI:       128/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.11.07-13.34.24:808][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.07-13.34.24:808][  0]LogD3D11RHI:       0/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.07-13.34.24:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.07-13.34.24:815][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.07-13.34.24:816][  0]LogD3D11RHI:     GPU DeviceId: 0x699f (for the marketing name, search the web for "GPU Device Id")
+[2022.11.07-13.34.24:816][  0]LogWindows: EnumDisplayDevices:
+[2022.11.07-13.34.24:816][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.11.07-13.34.24:816][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.11.07-13.34.24:816][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.11.07-13.34.24:817][  0]LogWindows:    3. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.07-13.34.24:817][  0]LogWindows:    4. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.07-13.34.24:818][  0]LogWindows:    5. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.07-13.34.24:818][  0]LogWindows:    6. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.07-13.34.24:818][  0]LogWindows:    7. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.07-13.34.24:819][  0]LogWindows:    8. 'AMD Radeon RX 550' (P:0 D:0)
+[2022.11.07-13.34.24:819][  0]LogWindows:    9. 'mv video hook driver2' (P:0 D:0)
+[2022.11.07-13.34.24:819][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2022.11.07-13.34.24:819][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 550
+[2022.11.07-13.34.24:819][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.18.11 (internal:30.0.13018.11001, unified:30.0.13018.11001)
+[2022.11.07-13.34.24:819][  0]LogD3D11RHI:      Driver Date: 6-23-2022
+[2022.11.07-13.34.24:819][  0]LogRHI: Texture pool is 2425 MB (70% of 3464 MB)
+[2022.11.07-13.34.24:923][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.07-13.34.24:923][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.07-13.34.24:923][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.07-13.34.24:954][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.11.07-13.34.25:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.07-13.34.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.07-13.34.25:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.07-13.34.25:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.07-13.34.25:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.07-13.34.25:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.07-13.34.25:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.07-13.34.25:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.07-13.34.25:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.07-13.34.25:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.07-13.34.25:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.07-13.34.25:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.07-13.34.25:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.07-13.34.25:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.07-13.34.25:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.07-13.34.25:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.07-13.34.25:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.07-13.34.25:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.07-13.34.25:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.07-13.34.25:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.07-13.34.25:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.07-13.34.25:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.07-13.34.25:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.07-13.34.25:656][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.07-13.34.25:672][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.07-13.34.25:882][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.07-13.34.25:883][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Intermediate/Shaders/WorkingDirectory/14608/).
+[2022.11.07-13.34.25:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/5926008891/AppData/Local/Temp/UnrealShaderWorkingDir/E4009DFC42574BBE4B70CA97979AE987/'.
+[2022.11.07-13.34.25:884][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.07-13.34.25:884][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.07-13.34.29:444][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.07-13.34.29:696][  0]LogDerivedDataCache: Loaded boot cache 0.25s 96MB C:/Users/5926008891/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.07-13.34.29:696][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/5926008891/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.07-13.34.29:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.07-13.34.29:697][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.07-13.34.29:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.07-13.34.29:697][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.07-13.34.29:719][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.07-13.34.29:720][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.07-13.34.29:720][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.07-13.34.29:781][  0]LogDerivedDataCache: Speed tests for C:/Users/5926008891/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.11.07-13.34.29:781][  0]LogDerivedDataCache: Display: Performance to C:/Users/5926008891/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=17.41MBs, RandomWriteSpeed=149.74MBs. Assigned SpeedClass 'Local'
+[2022.11.07-13.34.29:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/5926008891/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.07-13.34.29:782][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.07-13.34.29:782][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.07-13.34.29:861][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.07-13.34.29:881][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.07-13.34.29:931][  0]LogAssetRegistry: FAssetRegistry took 0.0076 seconds to start up
+[2022.11.07-13.34.30:352][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.07-13.34.30:352][  0]LogInit: Active device profile: [000001A50E0C3900][000001A50D6773C0 49] Windows
+[2022.11.07-13.34.30:352][  0]LogInit: Profiles: [000001A50E0C3900][000001A50D6773C0 49] Windows, [000001A50E062F00][000001A50D67F540 49] WindowsNoEditor, [000001A50E0C0E00][000001A50D67B680 49] WindowsServer, [000001A50E061500][000001A50D6837C0 49] WindowsClient, [000001A50E0C2800][000001A50D687900 49] IOS, [000001A50E060400][000001A50D68BA40 49] iPadAir, [000001A50E0C3C00][000001A50D693BC0 49] iPadAir2, [000001A50E00AA00][000001A50D69A1C0 49] IPadPro, [000001A50E00AB00][000001A50D696200 49] iPadAir3, [000001A50E060900][000001A50D69E380 49] iPadAir4, [000001A50E00AD00][000001A50D6A2500 49] iPadMini2, [000001A50E061B00][000001A50D6A6680 49] iPadMini3, [000001A50E009100][000001A50D6AA800 49] iPadMini4, [000001A50E062C00][000001A50D6AE980 49] iPadMini5, [000001A50E03A300][000001A50D6B6C40 49] iPhone6, [000001A50E03A400][000001A50D6B2C80 49] iPodTouch6, [000001A50E009500][000001A50D6BEF40 49] iPhone7, [000001A50E009400][000001A50D6BAF80 49] iPodTouch7, [000001A50E03BB00][000001A50D6C3100 49] iPhone5S, [000001A50E00A900][000001A50D6C7280 49] iPhone6Plus, [000001A50E039400][000001A50D6CB400 49] iPhone6S, [000001A50E008100][000001A50D6CF580 49] iPhone6SPlus, [000001A50E038200][000001A50D6D3700 49] iPhone7Plus, [000001A50E00A500][000001A50D68F840 49] iPhoneSE, [000001A50E03AB00][000001A50D6D7980 49] iPhone8, [000001A50E00B200][000001A50D6DBAC0 49] iPhone8Plus, [000001A50E039B00][000001A50D6E3C40 49] iPhoneX, [000001A50E00A000][000001A50D6E6100 49] iPhoneXS, [000001A50E03B100][000001A50D6EA280 49] iPhoneXSMax, [000001A50E00B100][000001A50D6EE400 49] iPhoneXR, [000001A50E03A100][000001A50D6F2580 49] iPhone11, [000001A50E008B00][000001A50D6F6700 49] iPhone11Pro, [000001A50E03AF00][000001A50D6FA880 49] iPhone11ProMax, [000001A50E00B600][000001A50D6FEA00 49] iPhoneSE2, [000001A50E03B600][000001A50D702B80 49] iPhone12Mini, [000001A50E00B500][000001A50D706D00 49] iPhone12, [000001A50E03A500][000001A50D70AE80 49] iPhone12Pro, [000001A50E009200][000001A50D70F000 49] iPhone12ProMax, [000001A50E039F00][000001A50D713180 49] iPadPro105, [000001A50E0C3000][000001A50D717300 49] iPadPro129, [000001A50E009C00][000001A50D71B480 49] iPadPro97, [000001A50E038A00][000001A50D71F600 49] iPadPro2_129, [000001A50E0C2A00][000001A50D723780 49] iPad5, [000001A50E039700][000001A50D6DF8C0 49] iPad6, [000001A50E0C1300][000001A50D727A00 49] iPad7, [000001A50E008300][000001A50D72BB40 49] iPad8, [000001A50E0C2F00][000001A50D733CC0 49] iPadPro11, [000001A50E008400][000001A50D736180 49] iPadPro2_11, [000001A50E0C1E00][000001A50D73A300 49] iPadPro3_129, [000001A50E00B900][000001A50D73E480 49] iPadPro4_129, [000001A50E0C3500][000001A50D742600 49] AppleTV, [000001A50E00A400][000001A50D746780 49] AppleTV4K, [000001A50E0C2500][000001A50D74A900 49] TVOS, [000001A50E00BB00][000001A50E870A80 49] Mac, [000001A50E0C0D00][000001A50E874C00 49] MacClient, [000001A50E008900][000001A50E878D80 49] MacNoEditor, [000001A50E0C2100][000001A50E87CF00 49] MacServer, [000001A50E00BC00][000001A50E881080 49] Linux, [000001A50E0C0400][000001A50E885200 49] LinuxAArch64, [000001A50E009600][000001A50E889380 49] LinuxNoEditor, [000001A50E0C0A00][000001A50E88D500 49] LinuxAArch64NoEditor, [000001A50E00B700][000001A50E891680 49] LinuxClient, [000001A50E0C1900][000001A50E895800 49] LinuxAArch64Client, [000001A50E00A200][000001A50D72F940 49] LinuxServer, [000001A50E0C0800][000001A50E899A80 49] LinuxAArch64Server, [000001A50E009700][000001A50E89DBC0 49] Android, [000001A50E0C1700][000001A50E8A1D00 49] Android_Low, [000001A50E00B400][000001A50E8A81C0 49] Android_Mid, [000001A50E0C0100][000001A50E8AC340 49] Android_High, [000001A50E00AC00][000001A50E8C44C0 49] Android_Default, [000001A50E0C1C00][000001A50E8CC640 49] Android_Adreno4xx, [000001A50E00B800][000001A50E8D07C0 49] Android_Adreno5xx_Low, [000001A50E0C3200][000001A50E8D4940 49] Android_Adreno5xx, [000001A50E00A300][000001A50E8D8AC0 49] Android_Adreno6xx, [000001A50E0C1200][000001A50E8DCC40 49] Android_Adreno6xx_Vulkan, [000001A50E009A00][000001A50E8E0DC0 49] Android_Mali_T6xx, [000001A50E0C1500][000001A50E8E4F40 49] Android_Mali_T7xx, [000001A50E009800][000001A50E8E90C0 49] Android_Mali_T8xx, [000001A50E0C1F00][000001A50E8ED240 49] Android_Mali_G71, [000001A50E008D00][000001A50E8F13C0 49] Android_Mali_G72, [000001A50E0C0900][000001A50E8F5540 49] Android_Mali_G72_Vulkan, [000001A50E00BD00][000001A50E8F96C0 49] Android_Mali_G76, [000001A50E0C1B00][000001A50E8FD840 49] Android_Mali_G76_Vulkan, [000001A50E00B000][000001A50E8A5980 49] Android_Mali_G77, [000001A50E0C1000][000001A50E901AC0 49] Android_Mali_G77_Vulkan, [000001A50E00AF00][000001A50E905C00 49] Android_Vulkan_SM5, [000001A50E0C2600][000001A50E909D40 49] Android_PowerVR_G6xxx, [000001A50E009D00][000001A50E910200 49] Android_PowerVR_GT7xxx, [000001A50E060500][000001A50E914380 49] Android_PowerVR_GE8xxx, [000001A50E039200][000001A50E918500 49] Android_PowerVR_GM9xxx, [000001A50E061900][000001A50E91C680 49] Android_PowerVR_GM9xxx_Vulkan, [000001A50E038E00][000001A50E920800 49] Android_TegraK1, [000001A50E062D00][000001A50E924980 49] Android_Unknown_Vulkan, [000001A50E039800][000001A50E928B00 49] Lumin, [000001A50E062000][000001A50E92CC80 49] Lumin_Desktop, [000001A50E038800][000001A50E930E00 49] HoloLens, 
+[2022.11.07-13.34.30:701][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.07-13.34.30:701][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.07-13.34.30:701][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.07-13.34.30:701][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.07-13.34.30:702][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.07-13.34.30:784][  0]LogNetVersion: GameDesign 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4277741428)
+[2022.11.07-13.34.31:878][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.07-13.34.31:928][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.048988 seconds
+[2022.11.07-13.34.31:934][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.11.07-13.34.31:934][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.11.07-13.34.31:934][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.07-13.34.33:154][  0]LogAssetRegistry: Error: Package ../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
+[2022.11.07-13.34.33:154][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.07-13.34.33:164][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.07-13.34.33:417][  0]SourceControl: Source control is disabled
+[2022.11.07-13.34.34:709][  0]LogUProjectInfo: Found projects:
+[2022.11.07-13.34.34:718][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-13.34.34:719][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-13.34.35:131][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.07-13.34.35:160][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.07-13.34.35:160][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.07-13.34.35:259][  0]LogCollectionManager: Loaded 0 collections in 0.001963 seconds
+[2022.11.07-13.34.35:302][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Collections/' took 0.00s
+[2022.11.07-13.34.35:302][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/Developers/5926008891/Collections/' took 0.00s
+[2022.11.07-13.34.35:302][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/Collections/' took 0.00s
+[2022.11.07-13.34.35:302][  0]LogOcInput: OculusInput pre-init called
+[2022.11.07-13.34.35:322][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.07-13.34.35:322][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.07-13.34.35:428][  0]LogEngine: Initializing Engine...
+[2022.11.07-13.34.35:430][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.07-13.34.35:431][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.07-13.34.35:434][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.07-13.34.35:578][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.07-13.34.35:627][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.07-13.34.35:633][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.07-13.34.35:640][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.07-13.34.35:640][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.07-13.34.35:641][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.07-13.34.35:641][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.07-13.34.35:643][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.07-13.34.35:643][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.07-13.34.35:671][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.07-13.34.35:671][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.07-13.34.36:246][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.11.07-13.34.36:249][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.07-13.34.36:251][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.07-13.34.36:251][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.07-13.34.36:252][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.07-13.34.36:253][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.07-13.34.36:253][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.07-13.34.36:254][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.07-13.34.36:254][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.07-13.34.36:254][  0]LogInit: FAudioDevice initialized.
+[2022.11.07-13.34.36:254][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.07-13.34.36:254][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.07-13.34.36:331][  0]LogDerivedDataCache: Saved boot cache 0.08s 96MB C:/Users/5926008891/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.07-13.34.36:335][  0]LogInit: Texture streaming: Enabled
+[2022.11.07-13.34.36:357][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.11.07-13.34.36:362][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.07-13.34.36:362][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.07-13.34.36:365][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.07-13.34.36:404][  0]LogInit: Transaction tracking system initialized
+[2022.11.07-13.34.36:459][  0]BlueprintLog: New page: Editor Load
+[2022.11.07-13.34.36:681][  0]LocalizationService: Localization service is disabled
+[2022.11.07-13.34.36:795][  0]TimingProfiler: Initialize
+[2022.11.07-13.34.36:799][  0]TimingProfiler: OnSessionChanged
+[2022.11.07-13.34.36:800][  0]LoadingProfiler: Initialize
+[2022.11.07-13.34.36:801][  0]LoadingProfiler: OnSessionChanged
+[2022.11.07-13.34.36:801][  0]NetworkingProfiler: Initialize
+[2022.11.07-13.34.36:802][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.07-13.34.36:802][  0]MemoryProfiler: Initialize
+[2022.11.07-13.34.36:802][  0]MemoryProfiler: OnSessionChanged
+[2022.11.07-13.34.36:932][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-13.34.36:932][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.07-13.34.37:044][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.07-13.34.37:044][  0]LogCook: Display: Mobile HDR setting 0
+[2022.11.07-13.34.37:301][  0]LogFileCache: Scanning file cache for directory 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/' took 0.01s
+[2022.11.07-13.34.37:563][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.07-13.34.37:573][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.887
+[2022.11.07-13.34.37:576][  0]LightingResults: New page: Lighting Build
+[2022.11.07-13.34.37:581][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-13.34.37:582][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-13.34.37:584][  0]MapCheck: New page: Map Check
+[2022.11.07-13.34.37:584][  0]LightingResults: New page: Lighting Build
+[2022.11.07-13.34.37:596][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.07-13.34.37:674][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2022.11.07-13.34.37:675][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.11.07-13.34.37:694][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.07-13.34.37:704][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.07-13.34.37:706][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.07-13.34.37:707][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2022.11.07-13.34.37:707][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.132
+[2022.11.07-13.34.37:737][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.050
+[2022.11.07-13.34.37:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-13.34.37:919][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-13.34.37:925][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-13.34.37:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.07-13.34.37:978][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3601 classes and 859 folders.
+[2022.11.07-13.34.37:987][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.07-13.34.38:003][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.07-13.34.38:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-13.34.38:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.11.07-13.34.38:013][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.07-13.34.38:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.07-13.34.38:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.11.07-13.34.38:020][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.07-13.34.38:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.07-13.34.38:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.11.07-13.34.38:027][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-13.34.38:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-13.34.38:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.11.07-13.34.38:035][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.07-13.34.38:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.07-13.34.38:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.11.07-13.34.38:042][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.07-13.34.38:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.07-13.34.38:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.11.07-13.34.38:048][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.07-13.34.38:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.07-13.34.38:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.11.07-13.34.38:056][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.07-13.34.38:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.07-13.34.38:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.11.07-13.34.38:064][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.07-13.34.38:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.07-13.34.38:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.11.07-13.34.38:071][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.07-13.34.38:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.07-13.34.38:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.11.07-13.34.38:077][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.07-13.34.38:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.07-13.34.38:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.11.07-13.34.38:086][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.07-13.34.38:086][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:086][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.07-13.34.38:086][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.11.07-13.34.38:093][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-13.34.38:093][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:093][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-13.34.38:093][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.11.07-13.34.38:099][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.07-13.34.38:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.07-13.34.38:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.11.07-13.34.38:106][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.07-13.34.38:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.07-13.34.38:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.11.07-13.34.38:114][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.07-13.34.38:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-13.34.38:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.11.07-13.34.38:133][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.07-13.34.38:133][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:133][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.07-13.34.38:133][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.11.07-13.34.38:144][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.07-13.34.38:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.07-13.34.38:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.11.07-13.34.38:152][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-13.34.38:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-13.34.38:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.11.07-13.34.38:162][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-13.34.38:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-13.34.38:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.11.07-13.34.38:169][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.07-13.34.38:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.07-13.34.38:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.11.07-13.34.38:178][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.07-13.34.38:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.07-13.34.38:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.11.07-13.34.38:193][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.07-13.34.38:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.07-13.34.38:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.11.07-13.34.38:204][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.07-13.34.38:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.07-13.34.38:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.11.07-13.34.38:213][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.07-13.34.38:213][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:213][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.07-13.34.38:213][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2022.11.07-13.34.38:221][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.07-13.34.38:221][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.07-13.34.38:221][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.07-13.34.38:221][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2022.11.07-13.34.38:476][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.07-13.34.38:483][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.11.07-13.34.38:592][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.07-13.34.38:593][  0]LogLoad: (Engine Initialization) Total time: 21.91 seconds
+[2022.11.07-13.34.38:593][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.07-13.34.38:593][  0]LogInit: First time updating LLM stats...
+[2022.11.07-13.34.38:639][  0]LogAssetRegistry: Asset discovery search completed in 8.7095 seconds
+[2022.11.07-13.34.38:641][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.11.07-13.34.38:682][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.07-13.34.38:697][  0]LogSlate: Took 0.006836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.07-13.34.38:706][  0]LogSlate: Took 0.007123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.07-13.34.38:716][  0]LogSlate: Took 0.007155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.07-13.34.38:864][  0]LogSlate: Took 0.005973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.07-13.34.38:894][  0]LogRenderer: Reallocating scene render targets to support 872x420 Format 10 NumSamples 1 (Frame:1).
+[2022.11.07-13.35.52:183][846]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.11.07-13.36.31:610][504]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-13.36.31:632][504]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-13.36.43:531][885]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.11.07-13.36.43:532][885]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-13.36.54:144][734]LogSlate: Took 0.004308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.07-13.36.54:281][734]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\5926008891\OneDrive - School Board of Seminole County\Period 2\game design\Character Animations\2_Inman_CharacterComplete.png)
+[2022.11.07-13.36.54:284][734]LogTexture: Display: Building textures: 2_Inman_CharacterComplete (AutoDXT, 160X160)
+[2022.11.07-13.37.22:444][648]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScrollerBP/NewFolder/2_Inman_CharacterComplete.2_Inman_CharacterComplete
+[2022.11.07-13.37.22:455][648]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.11.07-13.37.24:677][868]LogSlate: Window '2_Inman_CharacterComplete' being destroyed
+[2022.11.07-13.37.24:682][868]LogSlate: Window '2_Inman_CharacterComplete' being destroyed
+[2022.11.07-13.37.45:646][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.07-13.37.46:938][854]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.07-13.37.47:038][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.07-13.39.20:677][724]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\5926008891\OneDrive - School Board of Seminole County\Period 2\game design\Character Animations\2_Inman_CharacterComplete.png)
+[2022.11.07-13.39.20:683][724]LogTexture: Display: Building textures: 2_Inman_CharacterComplete (AutoDXT, 160X160)
+[2022.11.07-13.39.30:755][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\5926008891\OneDrive - School Board of Seminole County\Period 2\2_Inman_TileSet.png)
+[2022.11.07-13.39.30:756][791]LogTexture: Display: Building textures: 2_Inman_TileSet (AutoDXT, 64X64)
+[2022.11.07-13.39.47:933][ 13]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/2_Inman_TileSet.2_Inman_TileSet
+[2022.11.07-13.39.54:363][666]LogSlate: Window '2_Inman_TileSet' being destroyed
+[2022.11.07-13.39.54:368][666]LogSlate: Window '2_Inman_TileSet' being destroyed
+[2022.11.07-13.40.57:494][939]LogTexture: Display: Building textures: 2_Inman_TileSet (BGRA8, 64X64)
+[2022.11.07-13.41.06:596][341]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/2_Inman_TileSet.2_Inman_TileSet
+[2022.11.07-13.41.10:712][749]LogSlate: Window '2_Inman_TileSet' being destroyed
+[2022.11.07-13.41.10:717][749]LogSlate: Window '2_Inman_TileSet' being destroyed
+[2022.11.07-13.41.12:219][915]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/2_Inman_CharacterComplete.2_Inman_CharacterComplete
+[2022.11.07-13.41.15:400][228]LogSlate: Window '2_Inman_CharacterComplete' being destroyed
+[2022.11.07-13.41.15:405][228]LogSlate: Window '2_Inman_CharacterComplete' being destroyed
+[2022.11.07-13.41.35:843][827]LogTexture: Display: Building textures: 2_Inman_CharacterComplete (BGRA8, 160X160)
+[2022.11.07-13.42.35:531][810]LogSlate: Took 0.009514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.07-13.43.17:909][304]LogSlate: Window 'Extract sprites' being destroyed
+[2022.11.07-13.43.49:830][883]LogRenderer: Reallocating scene render targets to support 1312x664 Format 10 NumSamples 1 (Frame:23811).
+[2022.11.07-13.43.52:530][142]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-13.43.52:540][142]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-13.44.01:676][968]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.11.07-13.44.01:676][968]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-13.45.44:085][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite31EDD38C4B268DF7111BA1A4E5AF1E33.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-13.45.44:297][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite12D392A34DCCF3F095C82AB0AC63E206.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-13.45.44:499][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite5B1C7CAA495395CC6285E18B145C1177.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-13.45.44:710][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite6F146EA84164C2BF760A50AC1614FF4F.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-13.45.44:897][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite9978E75E4247E3D8BFB587AE4A1FC2A9.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-13.45.45:100][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite3CF2EB974A2CB0C0E587D59B72223C62.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-13.45.45:322][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite8BE75A564486319FDB8C10A230B2628F.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-13.45.45:514][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite156E2702411F75687C08C1B602990D9D.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-13.45.45:712][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteE20B8F3646147BD80A0A2CAE4C9231D1.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-13.45.45:914][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite74D12EEF4E48FDC791997D8F169758A2.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-13.45.46:102][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteC30C973D4976877E8E5D5FBB7D06AA54.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-13.45.46:313][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite08CF9AB54455CE27200EFD8884F36142.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-13.45.46:514][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite919B813E4CBEE7DA083C5CBDE9D4C228.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-13.45.46:735][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteEEE8D04B402BC1CCD98B308166B0C24F.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-13.45.46:942][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite34605A6047B175E3D203BDA2E5D002C8.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-13.45.47:131][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite4D206A9A49BEDF88376FD3B41D9413A0.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-13.45.47:355][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite8BDB6CE1448532B58BB1189E68AE1254.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-13.45.47:587][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite4AE24B1343A71CC4A92357A18AEAB6DA.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-13.45.47:804][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteC5377508453BD15D16445192B4B0F0E5.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-13.45.48:013][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteC272BA7147BECC9AEE6B9FBD1A61E22C.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-13.45.48:197][122]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteF156078E4692849982365D8679770C98.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-13.45.50:769][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.07-13.45.50:774][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:777][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:781][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:785][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:790][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:794][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-13.45.50:797][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:801][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:806][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-13.45.50:810][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:813][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:817][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:821][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-13.45.50:825][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:829][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:833][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:837][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.07-13.45.50:841][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:844][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:849][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.45.50:859][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-13.45.50:863][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.45.50:902][122]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_0.2_Inman_CharacterComplete_Sprite_0
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_1.2_Inman_CharacterComplete_Sprite_1
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_2.2_Inman_CharacterComplete_Sprite_2
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_3.2_Inman_CharacterComplete_Sprite_3
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_4.2_Inman_CharacterComplete_Sprite_4
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_5.2_Inman_CharacterComplete_Sprite_5
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_6.2_Inman_CharacterComplete_Sprite_6
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_7.2_Inman_CharacterComplete_Sprite_7
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_8.2_Inman_CharacterComplete_Sprite_8
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_9.2_Inman_CharacterComplete_Sprite_9
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_10.2_Inman_CharacterComplete_Sprite_10
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_11.2_Inman_CharacterComplete_Sprite_11
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_12.2_Inman_CharacterComplete_Sprite_12
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_13.2_Inman_CharacterComplete_Sprite_13
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_14.2_Inman_CharacterComplete_Sprite_14
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_15.2_Inman_CharacterComplete_Sprite_15
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_16.2_Inman_CharacterComplete_Sprite_16
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_17.2_Inman_CharacterComplete_Sprite_17
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_18.2_Inman_CharacterComplete_Sprite_18
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_19.2_Inman_CharacterComplete_Sprite_19
+[2022.11.07-13.45.50:902][122]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_20.2_Inman_CharacterComplete_Sprite_20
+[2022.11.07-13.46.02:985][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.07-13.46.02:986][539]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.006
+[2022.11.07-13.46.02:991][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/2_Inman_CharacterComplete] ([1] browsable assets)...
+[2022.11.07-13.46.02:993][539]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/2_Inman_CharacterComplete.2_Inman_CharacterComplete]
+[2022.11.07-13.46.02:993][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/2_Inman_CharacterComplete]
+[2022.11.07-13.46.02:995][539]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Auto18ADB68DB4254B4DAEB47D4A6DDD49730.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Auto1.uasset'
+[2022.11.07-13.46.02:996][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/2_Inman_TileSet] ([1] browsable assets)...
+[2022.11.07-13.46.02:997][539]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/2_Inman_TileSet.2_Inman_TileSet]
+[2022.11.07-13.46.02:997][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/2_Inman_TileSet]
+[2022.11.07-13.46.02:999][539]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_TileSet_Auto1B947299446D64E8959807DAA864C8893.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScroller/Textures/2_Inman_TileSet_Auto1.uasset'
+[2022.11.07-13.46.03:000][539]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.11.07-13.46.05:132][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.07-13.46.07:012][725]LogSlate: Window 'Save Content' being destroyed
+[2022.11.07-13.46.07:170][725]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterCompleteCCB09ED24E29B1B9B83570BEA2667E84.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete.uasset'
+[2022.11.07-13.46.07:383][725]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteC29F1CF9462EE97529FE92AD7A523826.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_21.uasset'
+[2022.11.07-13.46.07:571][725]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteF5131160457B4C7B1164A3BB855878F2.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_22.uasset'
+[2022.11.07-13.46.07:783][725]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite5FB65C144E6FE34A35F3EABC6DD8D6EE.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_23.uasset'
+[2022.11.07-13.46.07:969][725]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteB488FE9745AB8D60CAAAB3A5F1773B19.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_24.uasset'
+[2022.11.07-13.46.08:163][725]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_TileSet6EEECEB34C6F9782A1A22DADD56A83B9.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_TileSet.uasset'
+[2022.11.07-13.46.08:360][725]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-13.46.08:360][725]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/2_Inman_TileSet.2_Inman_TileSet
+[2022.11.07-13.46.08:360][725]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/2_Inman_CharacterComplete.2_Inman_CharacterComplete
+[2022.11.07-13.46.08:360][725]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_21.2_Inman_CharacterComplete_Sprite_21
+[2022.11.07-13.46.08:360][725]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_22.2_Inman_CharacterComplete_Sprite_22
+[2022.11.07-13.46.08:361][725]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_23.2_Inman_CharacterComplete_Sprite_23
+[2022.11.07-13.46.08:361][725]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_24.2_Inman_CharacterComplete_Sprite_24
+[2022.11.07-13.47.26:382][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite9F61C25946FE99BD1DB17A862A0E1CB3.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-13.47.26:593][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteDDD4AF9E4024EE95AC150783F388339C.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-13.47.26:778][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite01B23933445971DD4C41769A248E143B.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-13.47.26:963][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteD2724E45440290E4280B81847BEB75A8.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-13.47.27:135][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteB3955F2746235C6977A33DAD89B7A4D5.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-13.47.27:331][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteF44217154E80C83BF6E65DA352C703E0.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-13.47.27:542][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite12C8E7A946266607217DF1BC780A631A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-13.47.27:719][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite1B7E13014D9559E3A1E823B5495A6D6A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-13.47.27:916][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteB993545D4B43265A1611A9B5B3A70CA2.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-13.47.28:115][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite8F77BA6B42A1683F750E52AF282ED217.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-13.47.28:315][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite914E8924412E49F7E25E68815A677E83.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-13.47.28:527][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite6D05DA844F81E7DD727E9397B15CD008.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-13.47.28:715][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite6E178C9C4977C1C210B700BAFD7B0FB7.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-13.47.28:926][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite0FB5F40742138448EB5882B87C13032C.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-13.47.29:115][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite0163E8F44D5D4208978AE9AADA05C011.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-13.47.29:317][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite495FE7D848EA8473CF5DECAB6FF0707A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-13.47.29:526][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite5EFBBE85409E2228B65E3099F785EBDA.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-13.47.29:727][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteD207B2864868A656096B67A73042D4CC.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-13.47.29:928][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite07002C3243F9E1CA74E11BBE1E5D895F.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-13.47.30:127][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite463D793542A2962F2590A3A394528F3C.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-13.47.30:306][546]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteEF7029A4465C06662503DC88500F494F.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-13.47.32:816][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.07-13.47.32:820][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:824][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.47.32:828][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:832][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:836][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:840][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:844][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.11.07-13.47.32:848][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:852][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:856][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:860][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:864][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:868][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:872][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.47.32:875][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:880][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:884][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:887][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:891][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:895][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.47.32:902][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-13.47.32:906][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-13.47.33:104][546]SourceControl: rm 'GameDesign/Content/2DSideScroller/Animations/2_Inman_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-13.47.33:135][546]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_0.2_Inman_CharacterComplete_Sprite_0
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_1.2_Inman_CharacterComplete_Sprite_1
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_2.2_Inman_CharacterComplete_Sprite_2
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_3.2_Inman_CharacterComplete_Sprite_3
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_4.2_Inman_CharacterComplete_Sprite_4
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_5.2_Inman_CharacterComplete_Sprite_5
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_6.2_Inman_CharacterComplete_Sprite_6
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_7.2_Inman_CharacterComplete_Sprite_7
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_8.2_Inman_CharacterComplete_Sprite_8
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_9.2_Inman_CharacterComplete_Sprite_9
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_10.2_Inman_CharacterComplete_Sprite_10
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_11.2_Inman_CharacterComplete_Sprite_11
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_12.2_Inman_CharacterComplete_Sprite_12
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_13.2_Inman_CharacterComplete_Sprite_13
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_14.2_Inman_CharacterComplete_Sprite_14
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_15.2_Inman_CharacterComplete_Sprite_15
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_16.2_Inman_CharacterComplete_Sprite_16
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_17.2_Inman_CharacterComplete_Sprite_17
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_18.2_Inman_CharacterComplete_Sprite_18
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_19.2_Inman_CharacterComplete_Sprite_19
+[2022.11.07-13.47.33:135][546]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_20.2_Inman_CharacterComplete_Sprite_20
+[2022.11.07-13.49.06:145][547]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-13.49.06:145][547]LogContentBrowser: Deferred new asset file creation: 2_Inman_CharacterComplete
+[2022.11.07-13.49.06:185][547]LogContentBrowser: Creating deferred item: 2_Inman_CharacterComplete
+[2022.11.07-13.49.21:176][732]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> 2_Inman_CharacterComplete
+[2022.11.07-13.49.21:281][732]LogContentBrowser: End creating deferred item 2_Inman_CharacterComplete
+[2022.11.07-13.49.43:570][544]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> Idle
+[2022.11.07-13.49.44:419][544]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Idle91707CFA4C931C6F7B5AB7B3722E9EC4.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.11.07-13.49.44:815][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.07-13.49.44:826][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.07-13.49.44:830][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.07-13.49.44:846][544]AssetCheck: New page: Asset Save: Idle
+[2022.11.07-13.49.44:846][544]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/Idle.Idle
+[2022.11.07-13.50.47:217][227]LogContentBrowser: Attempting asset rename: Idle -> PC_Idle
+[2022.11.07-13.50.48:031][227]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_IdleC1820E7C4B67CCAEAC3F8CA3767F3DD2.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/PC_Idle.uasset'
+[2022.11.07-13.50.48:512][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.07-13.50.48:523][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-13.50.48:527][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.11.07-13.50.48:706][227]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.11.07-13.50.48:727][227]AssetCheck: New page: Asset Save: PC_Idle
+[2022.11.07-13.50.48:727][227]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/PC_Idle.PC_Idle
+[2022.11.07-13.51.10:125][135]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.07-13.51.10:144][135]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.07-13.51.15:206][608]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.11.07-13.51.15:206][608]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.07-13.51.23:869][352]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Idle13274745413F657391E318806C3651A1.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Idle.uasset'
+[2022.11.07-13.51.24:349][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.07-13.51.24:357][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-13.51.24:361][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.51.24:565][352]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/PC_Idle.uasset'
+[2022.11.07-13.51.24:595][352]AssetCheck: New page: Asset Save: PC_Idle
+[2022.11.07-13.51.24:595][352]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-13.51.50:345][565]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2022.11.07-13.52.01:265][645]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-13.52.01:265][645]LogContentBrowser: Deferred new asset file creation: 2_Inman_CharacterComplete
+[2022.11.07-13.52.01:301][645]LogContentBrowser: Creating deferred item: 2_Inman_CharacterComplete
+[2022.11.07-13.52.10:437][738]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> PC_Hurt
+[2022.11.07-13.52.10:562][738]LogContentBrowser: End creating deferred item 2_Inman_CharacterComplete
+[2022.11.07-13.52.16:190][272]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_HurtC7B5F906455495B8086187870394E8AE.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Hurt.uasset'
+[2022.11.07-13.52.16:585][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-13.52.16:596][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.07-13.52.16:600][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.52.16:629][272]AssetCheck: New page: Asset Save: PC_Hurt
+[2022.11.07-13.52.16:629][272]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-13.52.51:666][896]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-13.52.51:666][896]LogContentBrowser: Deferred new asset file creation: 2_Inman_CharacterComplete
+[2022.11.07-13.52.51:682][896]LogContentBrowser: Creating deferred item: 2_Inman_CharacterComplete
+[2022.11.07-13.52.59:519][832]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> PC_Jump
+[2022.11.07-13.52.59:635][832]LogContentBrowser: End creating deferred item 2_Inman_CharacterComplete
+[2022.11.07-13.53.01:780][ 50]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/PC_Jump.PC_Jump
+[2022.11.07-13.53.04:209][238]LogSlate: Window 'PC_Jump' being destroyed
+[2022.11.07-13.53.04:218][238]LogSlate: Window 'PC_Jump' being destroyed
+[2022.11.07-13.53.04:220][238]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-13.53.04:220][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-13.53.09:906][767]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Jump577A887442A1E743101F129C6418FBD0.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Jump.uasset'
+[2022.11.07-13.53.10:293][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.07-13.53.10:304][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.07-13.53.10:308][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.53.10:331][767]AssetCheck: New page: Asset Save: PC_Jump
+[2022.11.07-13.53.10:331][767]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Jump.PC_Jump
+[2022.11.07-13.54.49:699][827]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-13.54.49:699][827]LogContentBrowser: Deferred new asset file creation: 2_Inman_CharacterComplete
+[2022.11.07-13.54.49:716][827]LogContentBrowser: Creating deferred item: 2_Inman_CharacterComplete
+[2022.11.07-13.55.19:336][375]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> PC_Projectile
+[2022.11.07-13.55.19:457][375]LogContentBrowser: End creating deferred item 2_Inman_CharacterComplete
+[2022.11.07-13.56.32:752][ 25]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-13.56.32:753][ 25]LogContentBrowser: Deferred new asset file creation: 2_Inman_CharacterComplete
+[2022.11.07-13.56.32:769][ 25]LogContentBrowser: Creating deferred item: 2_Inman_CharacterComplete
+[2022.11.07-13.56.41:810][110]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> PC_Shoot
+[2022.11.07-13.56.41:921][110]LogContentBrowser: End creating deferred item 2_Inman_CharacterComplete
+[2022.11.07-13.56.46:922][586]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Shoot7B45493F41CD4C35F701A7BF7B0B3829.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Shoot.uasset'
+[2022.11.07-13.56.47:303][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.07-13.56.47:314][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.07-13.56.47:318][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.56.47:340][586]AssetCheck: New page: Asset Save: PC_Shoot
+[2022.11.07-13.56.47:340][586]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-13.56.53:348][159]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Projectile2D2D55F84D1A4D6BE8BBE783C1DD9915.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Projectile.uasset'
+[2022.11.07-13.56.53:726][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-13.56.53:737][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.07-13.56.53:741][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.56.53:763][159]AssetCheck: New page: Asset Save: PC_Projectile
+[2022.11.07-13.56.53:763][159]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-13.57.24:802][706]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.11.07-13.57.24:802][706]LogContentBrowser: Deferred new asset file creation: 2_Inman_CharacterComplete
+[2022.11.07-13.57.24:818][706]LogContentBrowser: Creating deferred item: 2_Inman_CharacterComplete
+[2022.11.07-13.57.30:341][367]LogContentBrowser: Attempting asset rename: 2_Inman_CharacterComplete -> PC_Run
+[2022.11.07-13.57.30:452][367]LogContentBrowser: End creating deferred item 2_Inman_CharacterComplete
+[2022.11.07-13.57.35:691][865]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Run74DD6B764B4C96554C450FB37B4AE9FA.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-13.57.36:086][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.07-13.57.36:097][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.07-13.57.36:101][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.07-13.57.36:124][865]AssetCheck: New page: Asset Save: PC_Run
+[2022.11.07-13.57.36:124][865]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-13.59.19:002][104]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-14.00.04:789][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.07-14.00.04:789][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.005
+[2022.11.07-14.00.04:793][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Animations/PC_Hurt] ([1] browsable assets)...
+[2022.11.07-14.00.04:799][ 54]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt]
+[2022.11.07-14.00.04:799][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Animations/PC_Hurt]
+[2022.11.07-14.00.04:802][ 54]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Hurt_Auto25E81DCF9407155962B7B54A2EC6FAC9C.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScroller/Animations/PC_Hurt_Auto2.uasset'
+[2022.11.07-14.00.04:802][ 54]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.11.07-14.00.32:994][667]LogSlate: Window 'PC_Hurt' being destroyed
+[2022.11.07-14.00.33:003][667]LogSlate: Window 'PC_Hurt' being destroyed
+[2022.11.07-14.00.33:006][667]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-14.00.33:006][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-14.00.36:714][ 83]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-14.01.56:378][466]LogSlate: Window 'PC_Idle' being destroyed
+[2022.11.07-14.01.56:386][466]LogSlate: Window 'PC_Idle' being destroyed
+[2022.11.07-14.01.56:389][466]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-14.01.56:389][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-14.02.01:415][ 33]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-14.02.19:991][494]LogSlate: Window 'PC_Hurt' being destroyed
+[2022.11.07-14.02.19:999][494]LogSlate: Window 'PC_Hurt' being destroyed
+[2022.11.07-14.02.20:001][494]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-14.02.20:001][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-14.03.22:431][541]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-14.04.22:592][418]LogSlate: Window 'PC_Projectile' being destroyed
+[2022.11.07-14.04.22:600][418]LogSlate: Window 'PC_Projectile' being destroyed
+[2022.11.07-14.04.22:603][418]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-14.04.22:603][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-14.04.25:059][692]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-14.04.50:363][ 69]LogSlate: Window 'PC_Run' being destroyed
+[2022.11.07-14.04.50:371][ 69]LogSlate: Window 'PC_Run' being destroyed
+[2022.11.07-14.04.50:373][ 69]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-14.04.50:373][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-14.04.53:421][398]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-14.05.36:888][863]LogSlate: Window 'PC_Shoot' being destroyed
+[2022.11.07-14.05.36:896][863]LogSlate: Window 'PC_Shoot' being destroyed
+[2022.11.07-14.05.36:898][863]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.07-14.05.36:898][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.07-14.06.46:723][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.07-14.06.48:126][625]LogSlate: Window 'Save Content' being destroyed
+[2022.11.07-14.06.48:277][625]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Hurt08F267D84A5967DCB5A934A7E33C174A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Hurt.uasset'
+[2022.11.07-14.06.48:286][625]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Idle65E8337341677475979271A90BE80438.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Idle.uasset'
+[2022.11.07-14.06.48:295][625]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Projectile98E910DD486C95CA62BBB18DDB48E572.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Projectile.uasset'
+[2022.11.07-14.06.48:303][625]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Run48C9C21E4569EE7D101BB0B01D817F10.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-14.06.48:312][625]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Shoot5A8E426D49587F38E8F22BB97094FEF7.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Shoot.uasset'
+[2022.11.07-14.06.48:322][625]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-14.06.48:322][625]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-14.06.48:322][625]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-14.06.48:322][625]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-14.06.48:322][625]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-14.06.48:322][625]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
+[2022.11.07-14.06.49:763][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.07-14.06.49:775][764]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMapEE84F6CD4319D93F48DE6BAB2669E2D1.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.07-14.06.49:910][764]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_BuiltDaC14195734E3F133BD9480EA9CCD7AABA.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.07-14.06.49:925][764]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-14.06.49:925][764]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.07-14.06.49:925][764]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.07-14.07.05:929][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.07-14.07.08:248][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.07-14.07.09:751][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:646][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:647][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:647][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:647][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:647][882]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.11.07-14.07.26:807][882]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2022.11.07-14.07.26:807][882]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2022.11.07-14.07.26:807][882]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2022.11.07-14.07.26:807][882]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2022.11.07-14.07.27:242][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_HurtBCE97B0E42BC29C6F8AEB68FFB134458.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Hurt.uasset'
+[2022.11.07-14.07.27:245][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Idle6FFEDF314254EF8F85780DAABBAB113A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Idle.uasset'
+[2022.11.07-14.07.27:247][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Jump5035723A4AE8B9B9F9C4CE9E6E0C9E8B.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Jump.uasset'
+[2022.11.07-14.07.27:250][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_ProjectileA9E8970C472F6EF45C2021A25C300AB4.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Projectile.uasset'
+[2022.11.07-14.07.27:253][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_Run6789DBAC4AF3FADD54C6D58CAF6F8B13.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Run.uasset'
+[2022.11.07-14.07.27:255][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/PC_ShootC40C35F84B6F7D0278BD3D9BFDED785A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Animations/PC_Shoot.uasset'
+[2022.11.07-14.07.27:258][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite5B9374754744C5832209E2BA87C5E22E.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_0.uasset'
+[2022.11.07-14.07.27:261][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite90F458B44B4519F8ECCF3F87395DAE32.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_1.uasset'
+[2022.11.07-14.07.27:264][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteDA6D7E9F49A9CFB1EE8AECAB7D26A003.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_10.uasset'
+[2022.11.07-14.07.27:267][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteC7E748364AF1C23E89D05484C89E38C8.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_11.uasset'
+[2022.11.07-14.07.27:270][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteAE67489B401E010A070862AE9BF2CFE5.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_12.uasset'
+[2022.11.07-14.07.27:274][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteBD1B1DF34192871624E037972507766A.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_13.uasset'
+[2022.11.07-14.07.27:277][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite4F65449E4010F56725A22394914B821B.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_14.uasset'
+[2022.11.07-14.07.27:280][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite1F0416974F4E21CB338B5E8670D1E611.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_15.uasset'
+[2022.11.07-14.07.27:283][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite127034D344D84BCEC0697B8C50083997.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_16.uasset'
+[2022.11.07-14.07.27:286][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite55DB500A4FF8076A6093248C867D78AE.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_17.uasset'
+[2022.11.07-14.07.27:289][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteB9DA3B2F4585D667108909AE48F0FC0D.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_18.uasset'
+[2022.11.07-14.07.27:292][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteCA9A878E4FE936DA601C87930683E938.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_19.uasset'
+[2022.11.07-14.07.27:295][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite0972EB134F5CC6A162A0AB97F2B6BBD4.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_2.uasset'
+[2022.11.07-14.07.27:298][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite66E806AD42BB640D4BAC668A2CE4F735.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_20.uasset'
+[2022.11.07-14.07.27:301][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite1501562349D81EBEB0C5FEA2D10B1248.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_3.uasset'
+[2022.11.07-14.07.27:305][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite2AD81D064B2A17D4C1EBFB8BFF8EA83D.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_4.uasset'
+[2022.11.07-14.07.27:309][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite994033304C87E9FB9C79D88619490EAE.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_5.uasset'
+[2022.11.07-14.07.27:312][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite030D3748490D336437D304BD300ABEEA.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_6.uasset'
+[2022.11.07-14.07.27:315][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteACC6411E4909ADE6CDC368BAEC95A57B.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_7.uasset'
+[2022.11.07-14.07.27:317][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteFE53E008482A1F4A3FC7A2B8E9C29B39.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_8.uasset'
+[2022.11.07-14.07.27:320][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite8274DA694DD678043601E8BC8715554B.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_9.uasset'
+[2022.11.07-14.07.27:323][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete31E4DC354B643E83AC38CC906CDFC8F4.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete.uasset'
+[2022.11.07-14.07.27:326][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_SpriteE12DD74A479E0181F88AEA88B4E1A3B8.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_21.uasset'
+[2022.11.07-14.07.27:328][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite736BD00B489CD8F3FF8DF6ABA9191918.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_22.uasset'
+[2022.11.07-14.07.27:331][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite9220C329455406A31343E1AD36C2E9E2.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_23.uasset'
+[2022.11.07-14.07.27:334][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_CharacterComplete_Sprite0A8AAAE34E8FF1D3B9AA6AB362097EC6.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_24.uasset'
+[2022.11.07-14.07.27:337][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Inman_TileSet10192E09474C3F6226C2A3860C822EA1.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Inman_TileSet.uasset'
+[2022.11.07-14.07.27:342][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.11.07-14.07.27:352][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap1719EA3F4C2D5B976AF28ABAFF40C0DA.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.11.07-14.07.27:361][882]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.023
+[2022.11.07-14.07.27:362][882]LogSavePackage: Moving '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_BuiltDa9BF3D4714C1AE518D37214B070A8AA68.tmp' to '../../../../../Users/5926008891/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.11.07-14.08.44:521][882]LogSlate: Window 'Submit Files' being destroyed
+[2022.11.07-14.08.45:325][882]LogSourceControl: commit successful: [MInmanBranch 62822c7] Added PC Animations & Level Sprites
+[2022.11.07-14.08.45:732][882]SourceControl: [MInmanBranch 62822c7] Added PC Animations & Level Sprites
+[2022.11.07-14.08.45:732][882]SourceControl:  36 files changed, 1 insertion(+), 1 deletion(-)
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Animations/PC_Hurt.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Animations/PC_Idle.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Animations/PC_Jump.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Animations/PC_Projectile.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Animations/PC_Run.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Animations/PC_Shoot.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_0.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_1.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_10.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_11.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_12.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_13.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_14.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_15.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_16.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_17.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_18.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_19.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_2.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_20.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_3.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_4.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_5.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_6.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_7.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_8.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_9.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_21.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_22.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_23.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_24.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Inman_TileSet.uasset
+[2022.11.07-14.08.45:732][882]SourceControl:  rewrite GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap (74%)
+[2022.11.07-14.08.45:732][882]SourceControl:  rewrite GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset (92%)
+[2022.11.07-14.08.45:739][882]SourceControl: Commited [MInmanBranch 62822c7] Added PC Animations & Level Sprites.
+[2022.11.07-14.08.45:773][883]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/2_Inman_TileSet.2_Inman_TileSet
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/2_Inman_CharacterComplete.2_Inman_CharacterComplete
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_0.2_Inman_CharacterComplete_Sprite_0
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_1.2_Inman_CharacterComplete_Sprite_1
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_2.2_Inman_CharacterComplete_Sprite_2
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_3.2_Inman_CharacterComplete_Sprite_3
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_4.2_Inman_CharacterComplete_Sprite_4
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_5.2_Inman_CharacterComplete_Sprite_5
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_6.2_Inman_CharacterComplete_Sprite_6
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_7.2_Inman_CharacterComplete_Sprite_7
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_8.2_Inman_CharacterComplete_Sprite_8
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_9.2_Inman_CharacterComplete_Sprite_9
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_10.2_Inman_CharacterComplete_Sprite_10
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_11.2_Inman_CharacterComplete_Sprite_11
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_12.2_Inman_CharacterComplete_Sprite_12
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_13.2_Inman_CharacterComplete_Sprite_13
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_14.2_Inman_CharacterComplete_Sprite_14
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_15.2_Inman_CharacterComplete_Sprite_15
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_16.2_Inman_CharacterComplete_Sprite_16
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_17.2_Inman_CharacterComplete_Sprite_17
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_18.2_Inman_CharacterComplete_Sprite_18
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_19.2_Inman_CharacterComplete_Sprite_19
+[2022.11.07-14.08.45:773][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Inman_CharacterComplete_Sprite_20.2_Inman_CharacterComplete_Sprite_20
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_21.2_Inman_CharacterComplete_Sprite_21
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_22.2_Inman_CharacterComplete_Sprite_22
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_23.2_Inman_CharacterComplete_Sprite_23
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Textures/2_Inman_CharacterComplete_Sprite_24.2_Inman_CharacterComplete_Sprite_24
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Run.PC_Run
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Shoot.PC_Shoot
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Hurt.PC_Hurt
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Idle.PC_Idle
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Jump.PC_Jump
+[2022.11.07-14.08.45:774][883]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Animations/PC_Projectile.PC_Projectile
