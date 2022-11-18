@@ -3796,3 +3796,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.18-14.00.40:731][452]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.18-14.00.40:732][452]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.11.18-14.00.40:732][452]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.11.18-14.00.54:021][562]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
