@@ -900,3 +900,10 @@ No such host is known.
 [2022.12.12-18.44.01:766][359]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.12-18.44.01:766][359]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.12-18.44.01:766][359]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-18.45.18:216][708]LogEditorViewport: Clicking Background
+[2022.12.12-18.45.18:785][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-18.45.18:796][772]LogSavePackage: Moving '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap610D168F41B14B09D6552D935EE1860D.tmp' to '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.12-18.45.18:808][772]LogSavePackage: Moving '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_BuiltDaACDEF15D498987C7C4E7AE89DA1AE944.tmp' to '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.12-18.45.18:818][772]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-18.45.18:818][772]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.12-18.45.18:818][772]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
