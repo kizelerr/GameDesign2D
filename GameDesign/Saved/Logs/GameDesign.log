@@ -869,3 +869,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.12-18.41.25:133][789]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.12-18.41.25:133][789]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.12-18.41.25:133][789]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-18.41.29:636][858]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-18.41.41:499][642]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.12.12-18.41.41:499][642]LogWindows: Warning: URL: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.12.12-18.41.43:914][926]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2022.12.12-18.41.43:914][926]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2022.12.12-18.42.13:375][460]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.12.12-18.42.13:375][460]LogWindows: Warning: URL: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/www/github.com/kizelerr/GameDesign2D version
+[2022.12.12-18.42.25:205][872]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.12.12-18.42.25:205][872]LogWindows: Warning: URL: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/www/github.com/kizelerr/GameDesign2D version
+[2022.12.12-18.42.25:205][872]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.12.12-18.42.29:503][315]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.12.12-18.42.29:503][315]LogWindows: Warning: URL: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/www/github.com/kizelerr/GameDesign2D version
+[2022.12.12-18.42.29:503][315]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.12.12-18.42.35:815][943]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.12.12-18.42.35:815][943]LogWindows: Warning: URL: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.12.12-18.42.37:816][149]LogSlate: Took 0.006985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
