@@ -851,3 +851,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.12-18.41.04:195][851]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.12-18.41.04:195][851]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.12-18.41.04:195][851]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-18.41.10:817][976]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-18.41.11:110][  8]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2022.12.12-18.41.11:777][ 84]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2022.12.12-18.41.12:478][166]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2022.12.12-18.41.13:685][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.12.12-18.41.13:696][304]LogSavePackage: Moving '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMapF1D1FAF242EB7664A46ACAAA5F40D0ED.tmp' to '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.12-18.41.13:708][304]LogSavePackage: Moving '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_BuiltDa18F7FF104DC594AA4A340390DA37FBBC.tmp' to '../../../../../Users/5925007610/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.12-18.41.13:716][304]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-18.41.13:716][304]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.12-18.41.13:716][304]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
