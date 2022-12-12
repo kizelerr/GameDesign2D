@@ -1188,3 +1188,557 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.12-13.57.54:988][244]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/Idle.Idle
 [2022.12.12-13.57.54:988][244]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.12-13.57.54:988][244]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-13.58.19:516][400]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-13.58.29:607][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-13.58.37:008][580]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-13.58.37:310][615]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/2D/Paper2D/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/2D/Paper2D/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-13.58.52:727][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S471A23C94F0B9BB3B07C9EBD4AE30C29.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_29.uasset'
+[2022.12.12-13.58.52:935][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S84B0471B4EAAF17970F6A49F0B57110F.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_30.uasset'
+[2022.12.12-13.58.53:117][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S4EE60493494622DFFF606E962183A77C.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_31.uasset'
+[2022.12.12-13.58.53:301][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S9F23DA284DFA2C5A773756BFFB160690.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_32.uasset'
+[2022.12.12-13.58.53:495][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S9397B8B646F42F264306A7AB1C9CE9C5.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_33.uasset'
+[2022.12.12-13.58.53:665][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S72D7E339414A03E3018DD19183693595.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_34.uasset'
+[2022.12.12-13.58.53:852][116]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S954CA09340D23EA0F3944D94A95B3243.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_35.uasset'
+[2022.12.12-13.58.55:780][116]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_35.2_Castanares_CharacterComplete_Sprite_35
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_34.2_Castanares_CharacterComplete_Sprite_34
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_33.2_Castanares_CharacterComplete_Sprite_33
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_32.2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_31.2_Castanares_CharacterComplete_Sprite_31
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_30.2_Castanares_CharacterComplete_Sprite_30
+[2022.12.12-13.58.55:780][116]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_29.2_Castanares_CharacterComplete_Sprite_29
+[2022.12.12-13.59.18:713][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-13.59.19:765][409]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-13.59.19:969][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.12-13.59.19:983][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-13.59.19:996][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.12-13.59.20:016][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.12-13.59.20:030][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-13.59.20:218][409]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_33.uasset'
+[2022.12.12-13.59.20:218][409]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_34.uasset'
+[2022.12.12-13.59.20:218][409]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_35.uasset'
+[2022.12.12-13.59.23:766][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.12-13.59.24:438][828]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-13.59.24:601][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.12.12-13.59.24:620][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.12-13.59.24:633][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.12.12-13.59.24:807][828]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_32.uasset'
+[2022.12.12-13.59.26:680][ 34]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S4A98ED1F40C826B6AB7051A0988FC857.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_32.uasset'
+[2022.12.12-13.59.27:301][ 34]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-13.59.27:301][ 34]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_32.2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-13.59.40:210][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.12-13.59.42:056][542]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-13.59.46:053][667]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleAnimationApple': Can't find file.
+[2022.12.12-13.59.46:053][667]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleAnimationApple': Can't find file.
+[2022.12.12-13.59.46:053][667]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleAnimationApple.IdleAnimationApple'
+[2022.12.12-14.00.02:007][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.12-14.00.03:063][976]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-14.00.03:256][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.12-14.00.03:270][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.12-14.00.03:284][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:296][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:310][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.12-14.00.03:323][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:336][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:349][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:362][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:374][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:387][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:400][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:413][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:425][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:438][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.03:455][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.12.12-14.00.03:467][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.12-14.00.03:750][976]SourceControl: Error: Updated 0 paths from the index
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_10.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_11.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_12.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_13.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_14.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_15.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_16.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_17.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_18.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_19.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_5.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_6.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_7.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_8.uasset'
+[2022.12.12-14.00.03:958][976]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_9.uasset'
+[2022.12.12-14.00.11:458][855]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/Running.Running
+[2022.12.12-14.00.13:396][ 21]LogSlate: Window 'Running' being destroyed
+[2022.12.12-14.00.13:409][ 21]LogSlate: Window 'Running' being destroyed
+[2022.12.12-14.00.13:449][ 21]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.00.13:449][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.00.16:465][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.12-14.00.17:229][370]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-14.00.17:419][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.12-14.00.17:437][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.12.12-14.00.17:450][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-14.00.17:718][370]SourceControl: Error: Updated 0 paths from the index
+[2022.12.12-14.00.17:895][370]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/Running.uasset'
+[2022.12.12-14.00.29:690][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_0': Can't find file.
+[2022.12.12-14.00.29:691][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_0': Can't find file.
+[2022.12.12-14.00.29:691][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_0.2_Castanares_CharacterComplete_Sprite_0'
+[2022.12.12-14.00.29:691][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_1': Can't find file.
+[2022.12.12-14.00.29:691][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_1': Can't find file.
+[2022.12.12-14.00.29:691][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_1.2_Castanares_CharacterComplete_Sprite_1'
+[2022.12.12-14.00.29:691][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_2': Can't find file.
+[2022.12.12-14.00.29:691][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_2': Can't find file.
+[2022.12.12-14.00.29:691][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_2.2_Castanares_CharacterComplete_Sprite_2'
+[2022.12.12-14.00.29:692][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_3': Can't find file.
+[2022.12.12-14.00.29:692][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_3': Can't find file.
+[2022.12.12-14.00.29:692][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_3.2_Castanares_CharacterComplete_Sprite_3'
+[2022.12.12-14.00.29:692][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_4': Can't find file.
+[2022.12.12-14.00.29:692][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_4': Can't find file.
+[2022.12.12-14.00.29:692][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_4.2_Castanares_CharacterComplete_Sprite_4'
+[2022.12.12-14.00.29:692][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle1': Can't find file.
+[2022.12.12-14.00.29:692][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle1': Can't find file.
+[2022.12.12-14.00.29:692][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle1.IdleCycle1'
+[2022.12.12-14.00.29:693][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle2': Can't find file.
+[2022.12.12-14.00.29:693][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle2': Can't find file.
+[2022.12.12-14.00.29:693][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle2.IdleCycle2'
+[2022.12.12-14.00.29:693][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle3': Can't find file.
+[2022.12.12-14.00.29:693][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle3': Can't find file.
+[2022.12.12-14.00.29:693][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle3.IdleCycle3'
+[2022.12.12-14.00.29:693][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle4': Can't find file.
+[2022.12.12-14.00.29:693][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle4': Can't find file.
+[2022.12.12-14.00.29:693][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle4.IdleCycle4'
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle5': Can't find file.
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle5': Can't find file.
+[2022.12.12-14.00.29:694][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle5.IdleCycle5'
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle6': Can't find file.
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle6': Can't find file.
+[2022.12.12-14.00.29:694][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle6.IdleCycle6'
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle7': Can't find file.
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle7': Can't find file.
+[2022.12.12-14.00.29:694][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle7.IdleCycle7'
+[2022.12.12-14.00.29:694][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle8': Can't find file.
+[2022.12.12-14.00.29:695][886]LogLinker: Warning: Failed to load '/Game/2DSideScroller/Sprites/IdleFrames/IdleCycle8': Can't find file.
+[2022.12.12-14.00.29:695][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/2DSideScroller/Sprites/IdleFrames/IdleCycle8.IdleCycle8'
+[2022.12.12-14.00.56:973][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.12-14.00.58:035][437]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-14.00.58:223][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.12-14.00.58:237][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-14.00.58:251][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-14.00.58:265][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:278][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:291][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:303][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:316][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.12-14.00.58:330][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.12-14.00.58:344][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.12-14.00.58:357][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:370][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.12-14.00.58:383][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-14.00.58:396][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.12-14.00.58:409][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.12-14.00.58:426][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-14.00.58:440][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.12-14.00.58:453][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.12-14.00.58:466][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:478][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:494][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:506][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.00.58:786][437]SourceControl: Error: Updated 0 paths from the index
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_10.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_11.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_12.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_13.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_14.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_15.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_16.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_17.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_18.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_19.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_20.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_21.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_22.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_23.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_24.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_5.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_6.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_7.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_8.uasset'
+[2022.12.12-14.00.59:004][437]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_9.uasset'
+[2022.12.12-14.01.36:744][877]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/Idle.Idle
+[2022.12.12-14.02.01:095][142]Cmd: TRANSACTION UNDO
+[2022.12.12-14.02.01:095][142]LogEditorTransaction: Undo Duplicate Keyframe
+[2022.12.12-14.02.01:277][147]Cmd: TRANSACTION UNDO
+[2022.12.12-14.02.01:277][147]LogEditorTransaction: Undo Reorder key frames
+[2022.12.12-14.02.01:647][161]Cmd: TRANSACTION UNDO
+[2022.12.12-14.02.01:647][161]LogEditorTransaction: Undo Edit Frames Per Second
+[2022.12.12-14.02.48:290][704]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Idle0B90753E4D4E4EA750BB4CB717DCB6B1.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.12.12-14.02.48:300][704]AssetCheck: New page: Asset Save: Idle
+[2022.12.12-14.02.48:300][704]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/Idle.Idle
+[2022.12.12-14.02.50:445][924]LogSlate: Window 'Idle' being destroyed
+[2022.12.12-14.02.50:456][924]LogSlate: Window 'Idle' being destroyed
+[2022.12.12-14.02.50:495][924]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.02.50:495][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.02.53:375][266]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.12.12-14.02.54:135][349]LogEditorViewport: Clicking on Actor (context menu): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.12.12-14.02.59:873][962]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.12.12-14.02.59:880][962]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.12.12-14.03.01:375][139]LogEditorViewport: Clicking on Actor (context menu): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.12.12-14.03.02:629][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.12-14.03.15:498][320]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2022.12.12-14.03.15:505][320]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2022.12.12-14.03.15:507][320]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.03.15:507][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.03.17:158][511]LogEditorViewport: Clicking on Actor (context menu): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.12.12-14.03.35:225][504]LogContentBrowser: Attempting asset rename: Idle -> IdleAnimationApple
+[2022.12.12-14.03.35:989][504]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/IdleAnimationAppleB9993E1A42D559B7A5D7B99F180E58D4.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleAnimationApple.uasset'
+[2022.12.12-14.03.36:170][504]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Idle6F83F9AB421FB94DA16470A5CD918184.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.12.12-14.03.36:525][504]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-14.03.36:526][504]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/IdleAnimationApple.IdleAnimationApple
+[2022.12.12-14.03.36:526][504]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Sprites/Idle.Idle
+[2022.12.12-14.03.54:077][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.12-14.03.55:817][469]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-14.03.55:996][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.12-14.03.56:016][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.12.12-14.03.56:029][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.12-14.03.56:223][469]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_32.uasset'
+[2022.12.12-14.04.25:943][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.12.12-14.04.27:137][945]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-14.04.27:331][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.12-14.04.27:345][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.12.12-14.04.27:360][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.04.27:373][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.04.27:392][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.12-14.04.27:405][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.04.27:680][945]SourceControl: Error: Updated 0 paths from the index
+[2022.12.12-14.04.27:863][945]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_20.uasset'
+[2022.12.12-14.04.27:863][945]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_21.uasset'
+[2022.12.12-14.04.27:863][945]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_22.uasset'
+[2022.12.12-14.04.27:863][945]SourceControl: rm 'GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_23.uasset'
+[2022.12.12-14.04.41:494][524]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_24F08D710470743F3DAFA068F9DFDA8AB.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_2.uasset'
+[2022.12.12-14.04.42:148][524]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_2
+[2022.12.12-14.04.42:148][524]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Textures/2_Castanares_CharacterComplete_2.2_Castanares_CharacterComplete_2
+[2022.12.12-14.04.45:954][859]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_25B88C27B4D4084818E41D0B66CC27FED.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_2.uasset'
+[2022.12.12-14.04.46:412][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.12-14.04.46:435][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.12.12-14.04.46:447][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.12.12-14.04.46:654][859]SourceControl: rm 'GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_2.uasset'
+[2022.12.12-14.04.46:695][859]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_2
+[2022.12.12-14.04.46:696][859]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_2.2_Castanares_CharacterComplete_2
+[2022.12.12-14.05.02:372][588]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.05.02:799][635]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.05.03:525][712]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.05.08:629][323]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.05.10:292][512]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.12-14.05.10:297][512]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.12-14.05.10:298][512]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2022.12.12-14.05.10:337][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.12-14.05.10:342][512]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2022.12.12-14.05.10:343][512]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 12, 2022, 4:05:10 AM)
+[2022.12.12-14.05.10:379][512]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.12-14.05.10:382][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002452s)
+[2022.12.12-14.05.10:383][512]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2022.12.12-14.05.10:383][512]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2022.12.12-14.05.10:383][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003622s)
+[2022.12.12-14.05.10:397][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.12-14.05.10:397][512]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-14.05.10:398][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-14.05.10:398][512]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.12-14.05.10:398][512]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-14.05.10:402][512]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-14.05.10:402][512]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-14.05.10:485][512]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.12.12-14.05.10:485][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-14.05.10:485][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-14.05.10:485][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-14.05.10:485][512]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-14.05.10:485][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-14.05.10:485][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-14.05.10:498][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-14.05.10:498][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-14.05.10:498][512]LogInit: FAudioDevice initialized.
+[2022.12.12-14.05.10:498][512]LogAudio: Display: Audio Device (ID: 6) registered with world '2DSideScrollerExampleMap'.
+[2022.12.12-14.05.10:504][512]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.12.12-14.05.10:506][512]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2022.12.12-09.05.10
+[2022.12.12-14.05.10:506][512]LogWorld: Bringing up level for play took: 0.000723
+[2022.12.12-14.05.10:506][512]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.12.12-14.05.10:508][512]PIE: Server logged in
+[2022.12.12-14.05.10:509][512]PIE: Play in editor total start time 0.213 seconds.
+[2022.12.12-14.05.19:955][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-14.05.19:955][639]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2022.12.12-14.05.19:956][639]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.05.19:956][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.05.19:975][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-14.05.20:013][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.05.20:030][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-14.05.20:030][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-14.05.20:031][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-14.05.20:049][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.12-14.05.20:078][640]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.12-14.05.28:854][690]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2022.12.12-14.05.34:970][351]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/IdleAnimationApple.IdleAnimationApple
+[2022.12.12-14.05.44:784][ 82]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.12.12-14.05.44:800][ 82]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.12.12-14.06.18:823][169]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/IdleAnimationApple1411588E42C8B980FDB3F5B100C8CEA9.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleAnimationApple.uasset'
+[2022.12.12-14.06.18:832][169]AssetCheck: New page: Asset Save: IdleAnimationApple
+[2022.12.12-14.06.18:832][169]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/IdleAnimationApple.IdleAnimationApple
+[2022.12.12-14.06.22:958][529]LogSlate: Window 'IdleAnimationApple' being destroyed
+[2022.12.12-14.06.22:973][529]LogSlate: Window 'IdleAnimationApple' being destroyed
+[2022.12.12-14.06.23:002][529]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.06.23:002][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.07.05:205][820]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_29.2_Castanares_CharacterComplete_Sprite_29
+[2022.12.12-14.07.15:696][436]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S74E2427B4B913A3F9F9AD28083CD5F8E.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_29.uasset'
+[2022.12.12-14.07.15:712][436]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_29
+[2022.12.12-14.07.15:712][436]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_29.2_Castanares_CharacterComplete_Sprite_29
+[2022.12.12-14.07.16:732][530]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_29' being destroyed
+[2022.12.12-14.07.16:747][530]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_29' being destroyed
+[2022.12.12-14.07.16:785][530]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.07.16:785][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.07.22:105][122]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_30.2_Castanares_CharacterComplete_Sprite_30
+[2022.12.12-14.07.26:051][347]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S365820964494BE6F15EFA4A68351C1F9.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_30.uasset'
+[2022.12.12-14.07.26:062][347]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_30
+[2022.12.12-14.07.26:062][347]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_30.2_Castanares_CharacterComplete_Sprite_30
+[2022.12.12-14.07.27:443][460]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_30' being destroyed
+[2022.12.12-14.07.27:458][460]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_30' being destroyed
+[2022.12.12-14.07.27:495][460]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.07.27:495][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.07.30:073][732]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_31.2_Castanares_CharacterComplete_Sprite_31
+[2022.12.12-14.07.32:864][879]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SFF8DC74243952B1243D562BC3CC85A67.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_31.uasset'
+[2022.12.12-14.07.32:876][879]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_31
+[2022.12.12-14.07.32:876][879]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_31.2_Castanares_CharacterComplete_Sprite_31
+[2022.12.12-14.07.33:657][946]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_31' being destroyed
+[2022.12.12-14.07.33:671][946]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_31' being destroyed
+[2022.12.12-14.07.33:706][946]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.07.33:706][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.07.36:740][250]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_32.2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-14.07.39:131][377]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S98B282ED496DCFDED41195954BEDD8A6.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_32.uasset'
+[2022.12.12-14.07.39:143][377]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-14.07.39:143][377]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_32.2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-14.07.40:277][468]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_32' being destroyed
+[2022.12.12-14.07.40:291][468]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_32' being destroyed
+[2022.12.12-14.07.40:293][468]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.07.40:293][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.07.42:690][710]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_33.2_Castanares_CharacterComplete_Sprite_33
+[2022.12.12-14.07.45:930][896]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SB662400F4D498057FC60A8A68D7E7FB8.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_33.uasset'
+[2022.12.12-14.07.45:939][896]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_33
+[2022.12.12-14.07.45:939][896]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_33.2_Castanares_CharacterComplete_Sprite_33
+[2022.12.12-14.07.47:218][  2]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_33' being destroyed
+[2022.12.12-14.07.47:232][  2]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_33' being destroyed
+[2022.12.12-14.07.47:234][  2]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.07.47:234][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.08.00:572][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.12.12-14.08.06:750][527]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-14.08.10:175][885]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_0.2_Castanares_CharacterComplete_Sprite_0
+[2022.12.12-14.08.13:916][ 88]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S90A0B5044B488F36608F32B80B26F2DD.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_0.uasset'
+[2022.12.12-14.08.13:927][ 88]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_0
+[2022.12.12-14.08.13:927][ 88]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_0.2_Castanares_CharacterComplete_Sprite_0
+[2022.12.12-14.08.14:650][152]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_0' being destroyed
+[2022.12.12-14.08.14:663][152]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_0' being destroyed
+[2022.12.12-14.08.14:687][152]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.08.14:687][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.08.19:041][671]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.08.25:760][438]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_1.2_Castanares_CharacterComplete_Sprite_1
+[2022.12.12-14.08.30:366][714]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S2F44DF90469271C92763FFADEC5A01CC.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_1.uasset'
+[2022.12.12-14.08.30:375][714]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_1
+[2022.12.12-14.08.30:375][714]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_1.2_Castanares_CharacterComplete_Sprite_1
+[2022.12.12-14.08.31:289][792]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_1' being destroyed
+[2022.12.12-14.08.31:302][792]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_1' being destroyed
+[2022.12.12-14.08.31:327][792]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.08.31:327][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.08.35:076][197]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_2.2_Castanares_CharacterComplete_Sprite_2
+[2022.12.12-14.08.38:651][402]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S14B93744481D90E286D09C9CAB37A751.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_2.uasset'
+[2022.12.12-14.08.38:660][402]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_2
+[2022.12.12-14.08.38:660][402]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_2.2_Castanares_CharacterComplete_Sprite_2
+[2022.12.12-14.08.39:491][476]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_2' being destroyed
+[2022.12.12-14.08.39:504][476]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_2' being destroyed
+[2022.12.12-14.08.39:507][476]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.08.39:507][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.09.07:156][ 76]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.09.09:044][296]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/Sprites/IdleAnimationApple.IdleAnimationApple
+[2022.12.12-14.09.12:876][648]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_26.2_Castanares_CharacterComplete_Sprite_26
+[2022.12.12-14.09.16:511][987]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.09.16:511][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.09.20:694][367]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_24.2_Castanares_CharacterComplete_Sprite_24
+[2022.12.12-14.09.24:067][583]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SF9DDF0EB44247E042DC9319FDCCD3A9C.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_24.uasset'
+[2022.12.12-14.09.24:077][583]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_24
+[2022.12.12-14.09.24:077][583]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_24.2_Castanares_CharacterComplete_Sprite_24
+[2022.12.12-14.09.26:200][772]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.09.26:200][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.09.38:511][981]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_24.2_Castanares_CharacterComplete_Sprite_24
+[2022.12.12-14.09.49:979][989]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_25.2_Castanares_CharacterComplete_Sprite_25
+[2022.12.12-14.09.53:569][246]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SBE69399B4200FA799247FB9E1E90CB87.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_25.uasset'
+[2022.12.12-14.09.53:580][246]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_25
+[2022.12.12-14.09.53:580][246]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_25.2_Castanares_CharacterComplete_Sprite_25
+[2022.12.12-14.10.03:602][139]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_26.2_Castanares_CharacterComplete_Sprite_26
+[2022.12.12-14.10.06:318][293]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S99F31258428060EC65FB30BF437678C2.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_26.uasset'
+[2022.12.12-14.10.06:330][293]AssetCheck: New page: Asset Save: 2_Castanares_CharacterComplete_Sprite_26
+[2022.12.12-14.10.06:330][293]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_26.2_Castanares_CharacterComplete_Sprite_26
+[2022.12.12-14.10.08:405][485]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_26' being destroyed
+[2022.12.12-14.10.08:409][485]LogSlate: Window '2_Castanares_CharacterComplete_Sprite_26' being destroyed
+[2022.12.12-14.10.08:441][485]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.10.08:441][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.10.08:454][485]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.10.08:454][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.10.08:472][485]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.10.08:472][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.10.08:488][485]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-14.10.08:488][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-14.10.09:314][581]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2022.12.12-14.10.09:990][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.12-14.10.10:009][644]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap47AD068A49F08AD94480F98AB1E77A48.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.12-14.10.10:126][644]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_BuiltDaCB9F9FA842DE3ED2FC549C9FF8C96B8A.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.12-14.10.10:135][644]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-14.10.10:135][644]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.12-14.10.10:135][644]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:807][254]SourceControl: fatal: C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D'
+[2022.12.12-14.10.15:949][254]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2022.12.12-14.10.15:949][254]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2022.12.12-14.10.15:949][254]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2022.12.12-14.10.15:949][254]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2022.12.12-14.10.16:231][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_2479D4C8646E4F8528175858E2A427CD0.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_2.uasset'
+[2022.12.12-14.10.16:234][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S224D33274A792C3CFD253F95713B6B72.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_0.uasset'
+[2022.12.12-14.10.16:237][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SED20D1534B9E58F8AEBC8790D9B6AF52.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_1.uasset'
+[2022.12.12-14.10.16:240][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S23F54736465EDE40B15A52922C59C850.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_2.uasset'
+[2022.12.12-14.10.16:243][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SCF9BF168467117F37893CBBDC5EB986A.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_24.uasset'
+[2022.12.12-14.10.16:246][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S80F81F93474DE73D34753896788F91AB.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_25.uasset'
+[2022.12.12-14.10.16:249][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S36A318D9429C73F977D10CBB145F0989.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_26.uasset'
+[2022.12.12-14.10.16:253][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SC8F500C74C2FC92FDAEA74A8111649D7.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_29.uasset'
+[2022.12.12-14.10.16:255][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SCCF510294E2EC20DBE955CBF72103136.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_30.uasset'
+[2022.12.12-14.10.16:258][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S0B3934324C1E50126920F7BB1054BB42.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_31.uasset'
+[2022.12.12-14.10.16:260][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Idle376C896B49AE1BC515D9BA8606193AF9.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/Idle.uasset'
+[2022.12.12-14.10.16:263][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/IdleAnimationAppleA35938CF479F2EBCD264798A53B28809.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleAnimationApple.uasset'
+[2022.12.12-14.10.16:265][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S1DAEBB234D682A8D48D38283D6013020.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_29.uasset'
+[2022.12.12-14.10.16:268][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S9DF19F3C46B59D52D875EE9E3FD00B25.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_30.uasset'
+[2022.12.12-14.10.16:272][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SB02477924DC7134E2BD950A23671760E.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_31.uasset'
+[2022.12.12-14.10.16:275][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_S7022817247BBD2782F1DC0AC45DF0861.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_32.uasset'
+[2022.12.12-14.10.16:278][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2_Castanares_CharacterComplete_SD7EE905C4B7F38CA6ADC928EE6E7E594.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_33.uasset'
+[2022.12.12-14.10.16:294][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.12-14.10.16:307][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap68519D5B43EC2D60E45FE6B8FBC6F1F7.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.12-14.10.16:318][254]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.039
+[2022.12.12-14.10.16:319][254]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_BuiltDa82C3DBB54CEA4D0CF95833A19A1FA5C3.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.12.12-14.10.20:745][254]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.12-14.10.21:582][254]LogSourceControl: commit successful: [CDuaneBranch 337f07c] update
+[2022.12.12-14.10.21:889][254]SourceControl: [CDuaneBranch 337f07c] update
+[2022.12.12-14.10.21:889][254]SourceControl:  47 files changed, 0 insertions(+), 0 deletions(-)
+[2022.12.12-14.10.21:889][254]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_2.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_10.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_11.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_12.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_13.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_14.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_15.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_16.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_20.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_21.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_22.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_23.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  rename GameDesign/Content/2DSideScroller/{Textures/2_Castanares_CharacterComplete_Sprite_17.uasset => Sprites/2_Castanares_CharacterComplete_Sprite_29.uasset} (85%)
+[2022.12.12-14.10.21:889][254]SourceControl:  rename GameDesign/Content/2DSideScroller/{Textures/2_Castanares_CharacterComplete_Sprite_18.uasset => Sprites/2_Castanares_CharacterComplete_Sprite_30.uasset} (86%)
+[2022.12.12-14.10.21:889][254]SourceControl:  rename GameDesign/Content/2DSideScroller/{Textures/2_Castanares_CharacterComplete_Sprite_19.uasset => Sprites/2_Castanares_CharacterComplete_Sprite_31.uasset} (86%)
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_5.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_6.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_7.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_8.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_9.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  rewrite GameDesign/Content/2DSideScroller/Sprites/Idle.uasset (99%)
+[2022.12.12-14.10.21:889][254]SourceControl:  copy GameDesign/Content/2DSideScroller/Sprites/{Idle.uasset => IdleAnimationApple.uasset} (78%)
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/Running.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_10.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_11.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_12.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_13.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_14.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_15.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_16.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_20.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_21.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_22.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_23.uasset
+[2022.12.12-14.10.21:889][254]SourceControl: [CDuaneBranch f5316f3] update
+[2022.12.12-14.10.21:889][254]SourceControl:  Date: Mon Dec 12 09:10:21 2022 -0500
+[2022.12.12-14.10.21:889][254]SourceControl:  53 files changed, 0 insertions(+), 0 deletions(-)
+[2022.12.12-14.10.21:889][254]SourceControl:  create mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_2.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_10.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_11.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_12.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_13.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_14.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_15.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_16.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_20.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_21.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_22.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_23.uasset
+[2022.12.12-14.10.21:889][254]SourceControl:  rename GameDesign/Content/2DSideScroller/{Textures/2_Castanares_CharacterComplete_Sprite_17.uasset => Sprites/2_Castanares_CharacterComplete_Sprite_29.uasset} (85%)
+[2022.12.12-14.10.21:889][254]SourceControl:  rename GameDesign/Content/2DSideScroller/{Textures/2_Castanares_CharacterComplete_Sprite_18.uasset => Sprites/2_Castanares_CharacterComplete_Sprite_30.uasset} (86%)
+[2022.12.12-14.10.21:889][254]SourceControl:  rename GameDesign/Content/2DSideScroller/{Textures/2_Castanares_CharacterComplete_Sprite_19.uasset => Sprites/2_Castanares_CharacterComplete_Sprite_31.uasset} (86%)
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_5.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_6.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_7.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_8.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_9.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  rewrite GameDesign/Content/2DSideScroller/Sprites/Idle.uasset (99%)
+[2022.12.12-14.10.21:890][254]SourceControl:  copy GameDesign/Content/2DSideScroller/Sprites/{Idle.uasset => IdleAnimationApple.uasset} (78%)
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Sprites/Running.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_10.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_11.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_12.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_13.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_14.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_15.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_16.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_20.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_21.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_22.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_23.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_24.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_5.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_6.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_7.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_8.uasset
+[2022.12.12-14.10.21:890][254]SourceControl:  delete mode 100644 GameDesign/Content/2DSideScroller/Textures/2_Castanares_CharacterComplete_Sprite_9.uasset
+[2022.12.12-14.10.21:894][254]SourceControl: Commited [CDuaneBranch 337f07c] update.
+[2022.12.12-14.10.21:936][255]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_24.2_Castanares_CharacterComplete_Sprite_24
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_25.2_Castanares_CharacterComplete_Sprite_25
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_26.2_Castanares_CharacterComplete_Sprite_26
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/Sprites/IdleAnimationApple.IdleAnimationApple
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_30.2_Castanares_CharacterComplete_Sprite_30
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_2.2_Castanares_CharacterComplete_Sprite_2
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_1.2_Castanares_CharacterComplete_Sprite_1
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_0.2_Castanares_CharacterComplete_Sprite_0
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_33.2_Castanares_CharacterComplete_Sprite_33
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_32.2_Castanares_CharacterComplete_Sprite_32
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_31.2_Castanares_CharacterComplete_Sprite_31
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Sprites/Idle.Idle
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/IdleFrames/2_Castanares_CharacterComplete_Sprite_29.2_Castanares_CharacterComplete_Sprite_29
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_31.2_Castanares_CharacterComplete_Sprite_31
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_30.2_Castanares_CharacterComplete_Sprite_30
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_Sprite_29.2_Castanares_CharacterComplete_Sprite_29
+[2022.12.12-14.10.21:937][255]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/2_Castanares_CharacterComplete_2.2_Castanares_CharacterComplete_2
