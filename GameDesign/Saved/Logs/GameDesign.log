@@ -1801,3 +1801,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.13-14.55.04:024][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.12.13-14.55.04:041][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2022.12.13-14.55.04:069][879]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.12.13-14.56.38:545][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.12.13-14.56.38:559][746]LogSavePackage: Moving '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_Auto2046265CE401E4B7019ACA08D96EEEC63.tmp' to '../../../../../../Users/5925007610.INST/OneDrive - School Board of Seminole County/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2022.12.13-14.56.38:561][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2022.12.13-14.56.38:561][746]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
