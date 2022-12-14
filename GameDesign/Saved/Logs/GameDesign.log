@@ -11779,3 +11779,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.14-13.26.28:280][826]LogContentValidation: Display: Validating PaperTileSet /Game/2DSideScroller/Sprites/Level1TileSet.Level1TileSet
 [2022.12.14-13.26.28:280][826]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/__LastName_TileSet2a.__LastName_TileSet2a
 [2022.12.14-13.26.28:280][826]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScroller/Sprites/Level1TileMap.Level1TileMap
+[2022.12.14-13.28.05:389][964]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.29.42:239][343]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacter88622566449AE870BCF8109ADA2086F3.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.12.14-13.29.42:263][343]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.12.14-13.29.42:263][343]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.29.42:696][377]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2022.12.14-13.29.42:712][377]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2022.12.14-13.29.42:752][377]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.29.42:752][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.30.05:547][764]LogTexture: Display: Building textures: 2DBackgroundTile (AutoDXT, 256X256)
+[2022.12.14-13.30.05:547][764]LogMaterial: Display: Missing cached shader map for material PrototypingSpriteMaterial, compiling. 
+[2022.12.14-13.30.05:574][764]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.12.14-13.30.05:574][764]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.12.14-13.30.05:600][764]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/PrototypingSprite.PrototypingSprite
+[2022.12.14-13.30.11:354][ 76]LogSlate: Window 'PrototypingSprite' being destroyed
+[2022.12.14-13.30.11:375][ 76]LogSlate: Window 'PrototypingSprite' being destroyed
+[2022.12.14-13.30.11:399][ 76]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.30.11:399][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.30.42:111][948]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.31.56:969][619]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacterF1390EF94EC9BD476DAC19B240C83F1A.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.12.14-13.31.56:991][619]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.12.14-13.31.56:991][619]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.35.05:529][812]LogSlate: Took 0.006370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.14-13.36.38:867][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.12.14-13.36.38:876][898]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_Auto46F49811B42B6EB4F040717BBCDB42577.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto4.umap'
+[2022.12.14-13.36.38:876][898]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.038
+[2022.12.14-13.36.38:876][898]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2022.12.14-13.36.38:877][898]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2022.12.14-13.36.38:877][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2022.12.14-13.36.38:900][898]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacter_Auto4D613803743AAD4AF7F3F389DC0957AC5.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto4.uasset'
+[2022.12.14-13.36.38:901][898]LogFileHelpers: Auto-saving content packages took 0.024
+[2022.12.14-13.38.33:994][332]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.38.34:035][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.14-13.40.36:754][241]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.40.36:794][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.14-13.41.14:541][218]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.41.14:579][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.12.14-13.41.39:036][298]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.41.39:078][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.14-13.42.06:381][569]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacterDBF6AE7D451E829F57978D97ECCA83DA.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.12.14-13.42.06:403][569]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.12.14-13.42.06:404][569]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.42.50:305][226]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.14-13.42.50:323][226]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.14-13.42.54:852][738]LogContentBrowser: Attempting asset rename: NewFolder -> Data
+[2022.12.14-13.42.54:852][738]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.14-13.43.38:088][477]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.12.14-13.43.38:096][477]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.12.14-13.43.56:389][404]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> AnimationState
+[2022.12.14-13.43.56:489][404]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.12.14-13.44.04:024][634]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/2DSideScrollerBP/Data/AnimationState.AnimationState
+[2022.12.14-13.44.32:256][149]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/AnimationState1DF62FA54C2DAC79E783E28CDAA2E6BD.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Data/AnimationState.uasset'
+[2022.12.14-13.44.32:440][149]AssetCheck: New page: Asset Save: AnimationState
+[2022.12.14-13.44.32:440][149]LogContentValidation: Display: Validating UserDefinedEnum /Game/2DSideScrollerBP/Data/AnimationState.AnimationState
+[2022.12.14-13.44.34:153][278]LogSlate: Window 'AnimationState' being destroyed
+[2022.12.14-13.44.34:163][278]LogSlate: Window 'AnimationState' being destroyed
+[2022.12.14-13.44.34:188][278]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.44.34:188][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.44.54:143][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.47.46:183][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.12.14-13.47.46:191][541]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap_Auto577C2643442B4506C88B87AB7A55F10D3.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto5.umap'
+[2022.12.14-13.47.46:192][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.037
+[2022.12.14-13.47.46:193][541]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2022.12.14-13.47.46:193][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2022.12.14-13.47.46:193][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2022.12.14-13.47.46:218][541]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacter_Auto557D239A14173556E6FA05D929F26CE24.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto5.uasset'
+[2022.12.14-13.47.46:219][541]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.12.14-13.48.47:889][278]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.48.47:927][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.14-13.49.52:578][ 15]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.49.52:620][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.14-13.49.53:698][ 79]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacter55E3199546557478081481879E666858.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.12.14-13.49.53:724][ 79]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.12.14-13.49.53:724][ 79]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.50.00:297][764]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/2DSideScrollerBP/Data/AnimationState.AnimationState
+[2022.12.14-13.50.18:346][105]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/AnimationState361258524D3AFEF8320BEA8E9FCEF433.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Data/AnimationState.uasset'
+[2022.12.14-13.50.18:356][105]AssetCheck: New page: Asset Save: AnimationState
+[2022.12.14-13.50.18:356][105]LogContentValidation: Display: Validating UserDefinedEnum /Game/2DSideScrollerBP/Data/AnimationState.AnimationState
+[2022.12.14-13.50.51:279][596]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.50.51:324][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.12.14-13.54.33:112][316]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2022.12.14-13.54.33:157][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.12.14-13.54.33:866][354]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacter4DABCEE6485EE3F9CA6D98B95086F76D.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.12.14-13.54.33:891][354]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2022.12.14-13.54.33:891][354]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.54.35:806][500]LogSlate: Window 'AnimationState' being destroyed
+[2022.12.14-13.54.35:819][500]LogSlate: Window 'AnimationState' being destroyed
+[2022.12.14-13.54.35:821][500]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-13.54.35:821][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-13.54.40:039][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.14-13.54.40:046][911]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMap0334C8F54EE283DD16968FA0B2908B33.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.14-13.54.40:059][911]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.036
+[2022.12.14-13.54.40:087][911]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2022.12.14-13.54.40:087][911]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Content: 'C:/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:208][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:209][255]SourceControl: fatal: C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/5926005769/Documents/GitHub/GameDesign2D'
+[2022.12.14-13.54.44:362][255]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/Sequencer/DefaultTakeBurnIn', but the path contains illegal characters '.'
+[2022.12.14-13.54.44:362][255]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultCountdownMaterial', but the path contains illegal characters '.'
+[2022.12.14-13.54.44:362][255]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultOverlayCircles', but the path contains illegal characters '.'
+[2022.12.14-13.54.44:362][255]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'C:/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay.uasset'. Attempt result was '../../Plugins/VirtualProduction/Takes/Content/UMG/DefaultRecordingOverlay', but the path contains illegal characters '.'
+[2022.12.14-13.54.44:659][255]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerCharacterB6FBA6084A00765282D417B08AD1A254.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.12.14-13.54.44:662][255]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/AnimationState090A40F04E1053EA04B8BE82DB813B5E.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Data/AnimationState.uasset'
+[2022.12.14-13.54.44:681][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.12.14-13.54.44:688][255]LogSavePackage: Moving '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Saved/2DSideScrollerExampleMapBF1704974EACAFD5B64EF6816E8215DF.tmp' to '../../../../../Users/5926005769/Documents/GitHub/GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.12.14-13.54.44:697][255]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.034
+[2022.12.14-13.54.54:048][255]LogSlate: Window 'Submit Files' being destroyed
+[2022.12.14-13.54.54:487][255]LogSourceControl: commit successful: [lelandBranch beef861] Changed Enum and flipbooks into a node
+[2022.12.14-13.54.54:694][255]SourceControl: [lelandBranch beef861] Changed Enum and flipbooks into a node
+[2022.12.14-13.54.54:694][255]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2022.12.14-13.54.54:694][255]SourceControl:  rewrite GameDesign/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset (63%)
+[2022.12.14-13.54.54:694][255]SourceControl:  create mode 100644 GameDesign/Content/2DSideScrollerBP/Data/AnimationState.uasset
+[2022.12.14-13.54.54:700][255]SourceControl: Commited [lelandBranch beef861] Changed Enum and flipbooks into a node.
+[2022.12.14-13.54.54:715][256]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.14-13.54.54:715][256]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.12.14-13.54.54:715][256]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.12.14-13.54.54:715][256]LogContentValidation: Display: Validating UserDefinedEnum /Game/2DSideScrollerBP/Data/AnimationState.AnimationState
