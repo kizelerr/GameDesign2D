@@ -1149,3 +1149,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.14-12.51.01:158][664]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2022.12.14-12.51.01:158][664]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2022.12.14-12.51.01:158][664]LogContentValidation: Display: Validating Blueprint /Game/2DSideScroller/Sprites/Background_Sprite_Blueprint.Background_Sprite_Blueprint
+[2022.12.14-12.51.19:586][858]LogEditorViewport: Clicking on Actor (LMB): Background_Sprite_Blueprint_C (Background_Sprite_Blueprint)
