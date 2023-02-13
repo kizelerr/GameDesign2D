@@ -964,3 +964,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.13-14.00.21:139][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2023.02.13-14.00.21:144][474]LogSavePackage: Moving '../../../../../GameDesign2D/GameDesign/Saved/SS_Game0E1278114AD41348A980E09DF26E4885.tmp' to '../../../../../GameDesign2D/GameDesign/Content/2DSideScrollerBP/Maps/SS_Game.umap'
 [2023.02.13-14.00.21:153][474]LogFileHelpers: Saving map 'SS_Game' took 0.030
+[2023.02.13-14.02.09:693][474]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.13-14.02.10:300][474]SourceControl: Error: Updated 0 paths from the index
+[2023.02.13-14.02.10:575][474]SourceControl: On branch MInmanBranch
+[2023.02.13-14.02.10:575][474]SourceControl: Your branch is up to date with 'origin/MInmanBranch'.
+[2023.02.13-14.02.10:575][474]SourceControl: Changes not staged for commit:
+[2023.02.13-14.02.10:575][474]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2023.02.13-14.02.10:575][474]SourceControl:   (use "git restore <file>..." to discard changes in working directory)
+[2023.02.13-14.02.10:575][474]SourceControl: 	modified:   GameDesign/Saved/Logs/GameDesign.log
+[2023.02.13-14.02.10:575][474]SourceControl: Untracked files:
+[2023.02.13-14.02.10:575][474]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2023.02.13-14.02.10:575][474]SourceControl: 	GameDesign/Saved/Logs/Git-TempBDB2E14E403A9F6642FE2E9CD512EDC5.txt
+[2023.02.13-14.02.10:575][474]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2023.02.13-14.02.10:616][475]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating WidgetBlueprint /Game/2DSideScroller/Textures/UI_Start_Screen/SS_Game.SS_Game
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/SS_Game.SS_Game
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.Default__2DSideScrollerExampleMap_C
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScroller.2DSideScroller
+[2023.02.13-14.02.10:616][475]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScroller_BuiltData.2DSideScroller_BuiltData
